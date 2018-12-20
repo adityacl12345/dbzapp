@@ -1,0 +1,50 @@
+[
+    {
+        "id": "01",
+        "name": "Son Goku",
+        "Imgset": "01",
+        "Summary": "The son of Bardock, a low-class Saiyan warrior; and Gi-ne, Kakarot was born on Planet Vegeta in or around Age 737. Sensing the impeding danger to the Saiyan race from Frieza, Kakarot's parents secretly sent him off planet to Earth when he was only three years old.",
+        "DescriptionUrl": "https://comicvine.gamespot.com/goku/4005-19765/"
+    
+    },
+    {
+        "id": "02",
+        "name": "Vegeta",
+        "Imgset": "02",
+        "Summary": "Vegeta, formerly the Prince of all Saiyans, was previously a supervillain who later evolved into an anti-hero and eventually a hero through the duration of the DragonBall franchise. An exceptional fighting prodigy, Vegeta has trained himself since a young age; and has always had natural talents in martial arts and chi control. He is among the last surviving pure Saiyans from the planet Vegeta. Vegeta's obsession to surpass Goku is among the key traits to his character.",
+        "DescriptionUrl": "https://comicvine.gamespot.com/vegeta/4005-40722/"
+    
+    },
+    {
+        "id": "03",
+        "name": "Whis",
+        "Imgset": "03",
+        "Summary": "Whis is the attendant and teacher of Beerus the God of Destruction. Brother to Vados.",
+        "DescriptionUrl": "https://comicvine.gamespot.com/whis/4005-123535/"
+    
+    },
+    {
+        "id": "04",
+        "name": "Lord Beerus",
+        "Imgset": "04",
+        "Summary": "Lord Beerus is the ancient and powerful God of Destruction of the 7th Universe, tasked with maintaining universal balance through destruction. He is the brother to Champa, and is an extremely feared being throughout the universe.",
+        "DescriptionUrl": "https://comicvine.gamespot.com/beerus/4005-105758/"
+    
+    },
+    {
+        "id": "05",
+        "name": "Krillin",
+        "Imgset": "05",
+        "Summary": "Krillin is the most powerful human in the Dragonball Universe. Krillin is short, bald and has six dots tattooed on his forehead. He usually wears the the turtle hermit school name on his uniform. Krillin is married and has a daughter. After the cell games, Krillin eventually grew hair.",
+        "DescriptionUrl": "https://comicvine.gamespot.com/krillin/4005-45683/"
+    
+    },
+    {
+        "id": "06",
+        "name": "Gohan",
+        "Imgset": "06",
+        "Summary": "The first son of Goku and Chichi and a half-Human, half-Saiyan, Son Gohan held the potential for enormous power. Growing up a scholar, not a warrior like his father, he nevertheless has answered the call to protect Earth multiple times. He is the most powerful non fused warrior in the Dragon Ball Z universe by the end of Dragon Ball Z series. He is the father of Pan and husband to Videl. He is Goten's older brother and Grandson to both Ox King and Bardock, respectively. (Goku and Chichi's fathers)",
+        "DescriptionUrl": "https://comicvine.gamespot.com/gohan/4005-40743/"
+    
+    }
+]
