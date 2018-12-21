@@ -46,5 +46,54 @@
         "Summary": "The first son of Goku and Chichi and a half-Human, half-Saiyan, Son Gohan held the potential for enormous power. Growing up a scholar, not a warrior like his father, he nevertheless has answered the call to protect Earth multiple times. He is the most powerful non fused warrior in the Dragon Ball Z universe by the end of Dragon Ball Z series. He is the father of Pan and husband to Videl. He is Goten's older brother and Grandson to both Ox King and Bardock, respectively. (Goku and Chichi's fathers)",
         "DescriptionUrl": "https://comicvine.gamespot.com/gohan/4005-40743/"
     
+    },
+    {
+        "id": "07",
+        "name": "Jiren",
+        "Imgset": "07",
+        "Summary": "Jiren is a member of the Pride Troopers who participated in the Tournament of Power with the purpose of obtaining a wish from the Super Dragon Balls. Jiren is a quiet and honorable fighter, who believes in strength and justice.",
+        "DescriptionUrl": "http://dragonball.wikia.com/wiki/Jiren"
+    
+    },
+    {
+        "id": "08",
+        "name": "Toppo",
+        "Imgset": "08",
+        "Summary": "Top is the leader of the heroic team, the Pride Troopers, guardians of peace within Universe 11.[1] He is also a candidate to become Universe 11's next God of Destruction. Top is a humble, hot-blooded, and respectful, fighter who strongly believes in Justice.",
+        "DescriptionUrl": "http://dragonball.wikia.com/wiki/Top"
+    
+    },
+    {
+        "id": "09",
+        "name": "Zeno",
+        "Imgset": "09",
+        "Summary": "Grand Zeno, the Omni-King, is one of the kings of the 12 Universes, one of the two entities who stands above the entire multiverse, alongside his future counterpart, Future Zeno.",
+        "DescriptionUrl": "http://dragonball.wikia.com/wiki/Zeno"
+    
+    },
+    {
+        "id": "10",
+        "name": "Zamasu",
+        "Imgset": "10",
+        "Summary": "Zamasu is the Supreme Kai apprentice serving the Supreme Kai of Universe 10, Gowasu. He is also the former North Kai of Universe 10.",
+        "DescriptionUrl": "http://dragonball.wikia.com/wiki/Zamasu"
+    
+    },
+    {
+        "id": "11",
+        "name": "Broly",
+        "Imgset": "11",
+        "Summary": "Broly is the main antagonist in the Broly Triple Threat trilogy. He appears to be the latest of the Legendary Super Saiyans who appears every thousand years.",
+        "DescriptionUrl": "http://dragonball.wikia.com/wiki/Broly"
+    
+    },
+    {
+        "id": "12",
+        "name": "Frieza",
+        "Imgset": "12",
+        "Summary": "Frieza is the emperor of Universe 7, who controlled his own imperial army and feared for his ruthlessness and power. He is the descendant of Chilled, the second son of King Cold, the younger brother of Cooler, and the father of Kuriza. Frieza is the catalyst antagonist of the entire franchise, as it is his actions that led to Goku arriving on Earth. He has made several comebacks since his fight with Goku on Namek, including multiple invasions of Earth. Recently, he has been chosen to represent Universe 7 as the tenth member of Team Universe 7 for the Tournament of Power as a replacement for Good Buu. This makes him the most recurring villain of the Dragon Ball series. After the events of the Tournament of Power, he is revived and recovers his title as Emperor of Universe 7.",
+        "DescriptionUrl": "http://dragonball.wikia.com/wiki/Frieza"
+    
     }
+
 ]
